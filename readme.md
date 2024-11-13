@@ -1,0 +1,1 @@
+This project is my implementation of Neural Networks in python.
